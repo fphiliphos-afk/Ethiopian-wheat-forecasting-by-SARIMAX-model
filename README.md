@@ -12,7 +12,7 @@ Yield (kg/ha)
 
 Production quantity (tons)
 
-# 🛠️ Methodology
+#  Methodology
 
 Data Collection & Cleaning (FAOSTAT wheat dataset for Ethiopia).
 
@@ -48,5 +48,5 @@ Error as % of Mean: ~5.4% → Good predictive accuracy
 
 # Key Insight
 
-📈 Ethiopia’s wheat production shows a strong upward trend, largely explained by increases in area harvested.
-🔮 SARIMAX provides reliable forecasts for future production, helping inform land use, input allocation, and food security policies.
+Ethiopia’s wheat production shows a strong upward trend, largely explained by increases in area harvested.
+SARIMAX provides reliable forecasts for future production, helping inform land use, input allocation, and food security policies.
